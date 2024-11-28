@@ -1,1 +1,54 @@
-prueba
+.title { 
+    background-color: #280434;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding: 0px;
+    margin-top: 0px;
+}
+   
+
+nav a{
+    font-size: 25px;
+    color: #2f0647;
+}
+
+
+
+nav a:hover{
+    font-size: 28px;
+    color: aquamarine;
+}
+.hero {
+    background-image: url(img/hotel\ with\ pool.jpg) ;
+    background-size: cover;
+    display: flex;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+}
+
+.sl {
+    background-color: #8043cc;
+    text-align: center;
+    color: white;
+    margin: 60px;
+}
+body {
+    background-color: #62369c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+footer {
+    background-color: #280434;
+    color: white;
+    padding: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+}
