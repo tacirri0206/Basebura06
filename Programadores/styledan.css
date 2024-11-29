@@ -1,0 +1,63 @@
+body {
+    background-color: #62369c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    background-color: #280434;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+#nuestros-servicios {
+    background-color: #4d0772;
+    color: white;
+    width: 80%;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#nuestros-servicios h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#nuestros-servicios ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#nuestros-servicios li {
+    background-color: #8043cc;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#nuestros-servicios li:hover {
+    background-color: #9c63dc;
+    transition: background-color 0.3s ease;
+}
+
+footer {
+    background-color: #280434;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
