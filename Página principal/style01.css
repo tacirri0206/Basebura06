@@ -32,11 +32,11 @@ nav a:hover{
     background-size: cover;
     display: flex;
     flex-direction: column;
-    background-position: center;
+    background-position: bottom;
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 350px;
+    height: 500px;
     padding: 40px;
 }
 
